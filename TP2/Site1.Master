@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ApplicationWeb2.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav>
+            <ul class="nav nav-pills" style="background-color:black; " >
+                <li><a href="index.aspx"style="color:gray;">Accueuil</a></li>
+                <li><a href="AfficherClients.aspx"style="color:gray;">Afficher tous les clients</a></li>
+                <li><a href="chercherclient.aspx"style="color:gray;">Chercher un client</a></li>
+                <li><a href="ajouterclient.aspx"style="color:gray;">Ajouter un client</a></li>
+                <li><a href="supprimerclient.aspx"style="color:gray;">Supprimer un client</a></li>
+
+            </ul>
+                </nav>
+
+
+        </div>
+
+        <div>
+            
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+            
+        </div>
+
+        
+    </form>
+    <div>
+            <footer style="background-color:wheat; text-align:center; height:50px; position:fixed; bottom:0px; width:100%;">
+                <p>&copy 2022-GestionclientsXYZ </p>
+            </footer>
+        </div>
+</body>
+    
+</html>

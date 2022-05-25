@@ -1,0 +1,221 @@
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\ApplicationWeb2.dll.config
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\ApplicationWeb2.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\ApplicationWeb2.pdb
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\csc.exe
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\csc.exe.config
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\csc.rsp
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\csi.exe
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\csi.exe.config
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\csi.rsp
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.AppContext.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Console.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\vbc.exe
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\vbc.exe.config
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\vbc.rsp
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.dll
+C:\Users\Utilisateur\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.pdb
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\ApplicationWeb2.dll.config
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\ApplicationWeb2.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\ApplicationWeb2.pdb
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\csc.exe
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\csc.exe.config
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\csc.rsp
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\csi.exe
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\csi.exe.config
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\csi.rsp
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.AppContext.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Console.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\vbc.exe
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\vbc.exe.config
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\vbc.rsp
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.csprojAssemblyReference.cache
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.csproj.CopyComplete
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.dll
+C:\Users\Arnaud\Desktop\1467476_TP2WEB\application web\obj\Debug\ApplicationWeb2.pdb
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\ApplicationWeb2.dll.config
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\ApplicationWeb2.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\ApplicationWeb2.pdb
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csc.exe
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csc.exe.config
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csc.rsp
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csi.exe
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csi.exe.config
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csi.rsp
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.AppContext.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Console.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\vbc.exe
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\vbc.exe.config
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\vbc.rsp
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.csprojAssemblyReference.cache
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.csproj.CopyComplete
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.dll
+C:\Users\Arnaud\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.pdb
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\ApplicationWeb2.dll.config
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\ApplicationWeb2.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\ApplicationWeb2.pdb
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csc.exe
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csc.exe.config
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csc.rsp
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csi.exe
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csi.exe.config
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\csi.rsp
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.AppContext.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Console.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\vbc.exe
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\vbc.exe.config
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\vbc.rsp
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.csproj.CopyComplete
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.dll
+C:\Users\Utilisateur\Desktop\TP2WEB_1467476\TP2\obj\Debug\ApplicationWeb2.pdb
